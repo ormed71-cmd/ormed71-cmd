@@ -1,16 +1,31 @@
-## Hi there 👋
+# Sergei Kovalev
 
-<!--
-**ormed71-cmd/ormed71-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Основатель MetodSK — бюро образовательных коммуникаций
 
-Here are some ideas to get you started:
+Проектирую образовательные материалы и цифровые продукты — от презентаций и учебных материалов до веб-сервисов и интерактивных решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MetodSK
+
+**MetodSK — Бюро образовательных коммуникаций**
+
+Создаём:
+- презентации и визуальные материалы;
+- учебные и методические материалы;
+- веб-презентации и сайты;
+- интерактивные образовательные сервисы;
+- цифровые продукты.
+
+### Из проектов
+
+**EduFrame**  
+Система образовательных коммуникаций: веб-презентация, учебные материалы, видео, презентации и инфографика.
+
+→ [Посмотреть проект](https://metodsk.github.io/eduframe-portfolio/)
+
+### GitHub
+
+Здесь публикую проекты, прототипы и рабочие материалы, связанные с образовательными коммуникациями и цифровыми продуктами.
+
+---
+
+**MetodSK** · Бюро образовательных коммуникаций
